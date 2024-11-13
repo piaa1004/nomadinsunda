@@ -55,7 +55,8 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <br>
 
-  ![Docker Image Version](https://img.shields.io/docker/v/USERNAME/REPOSITORY?sort=semver)
+  ![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/USERNAME/REPOSITORY)
+
 
 </div>
 

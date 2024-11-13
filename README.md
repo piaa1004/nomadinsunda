@@ -43,7 +43,7 @@
   <br>-->
 
   <img src="https://img.shields.io/badge/TensorFlow-FF3F06?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
 
   <br>
 

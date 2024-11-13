@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-badge&logo=C%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/-Numpy-013243?&logo=NumPy">
+  <img src="https://img.shields.io/badge/-Numpy-013243?style=for-the-badg&logo=NumPy&logoColor=white">
   <br>
 
   <!-- Backend -->
@@ -26,8 +26,8 @@
   <br>
 
   <!-- front -->
-  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white">
-  <img src="https://img.shields.io/badge/Qt-v6.4.3-khaki?logo=Qt">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/Qt-v6.4.3-khaki?style=for-the-badge&logo=Qt&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
@@ -43,7 +43,7 @@
   <br>-->
 
   <img src="https://img.shields.io/badge/TensorFlow-FF3F06?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/-Keras-D00000?logo=Keras&logoColor=white">
+  <img src="https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
 
   <br>
 

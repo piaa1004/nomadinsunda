@@ -27,7 +27,7 @@
 
   <!-- front -->
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-  <img src="https://img.shields.io/badge/Qt-v6.4.3-khaki?style=for-the-badge&logo=Qt&logoColor=white">
+  <img src="https://img.shields.io/badge/Qt-khaki?style=for-the-badge&logo=Qt&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 

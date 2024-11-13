@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=Waving&text=Hi%20there👋,%20I'm%20Nomand!&fontSize=40&color=C5E2FF)
+  ![header](https://capsule-render.vercel.app/api?type=Waving&text=Hi%20there👋,%20I'm%20Nomad!&fontSize=40&color=C5E2FF)
 </div>
 
 <div align=center><h1>🛠Tech Stack</h1></div>
@@ -50,7 +50,7 @@
 
 
 ----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nomandinsunda&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nomadinsunda&layout=compact)
 
 <br>
 
